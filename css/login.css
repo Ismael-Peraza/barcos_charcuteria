@@ -1,0 +1,16 @@
+.formulario{
+    margin-left: 350px;
+    margin-top: 50px;
+    color: #999;
+}
+.caja-1{
+    width: 250px;
+    height: 30px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 14px;
+}
+.boton-2{
+    margin: 20px;
+    padding: 10px;
+}

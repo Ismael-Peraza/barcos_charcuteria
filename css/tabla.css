@@ -1,0 +1,44 @@
+h1 {
+    text-align: center; color: green
+}
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+table#t01 tr:nth-child(even)
+{
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd)
+{
+    background-color:#fff;
+}
+table#t01 th
+{
+    background-color: rgb(100,200,200);
+}
+tr:hover td
+{
+    background:orange;
+}
+.cambioColor:hover
+{
+    color:blue; font-weight: bold;
+}
+p
+{
+    text-align: right; color: brown;
+}
+table#01 a:visited
+{
+    color:blue;
+}
+table#01 a
+{
+    text-decoration: none;
+}

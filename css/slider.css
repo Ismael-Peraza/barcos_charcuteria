@@ -1,0 +1,94 @@
+#particles-js{
+    background: url(../imagenes/orig_359236.jpg);
+    background-position: center;
+    background-attachment: fixed ;
+    background-size: cover;
+}
+.anchito{
+    top: 150px;
+    position: absolute;
+    width: 50%;
+    background: #fff;
+    margin-left: 26%;
+    font-size: 20px;
+    z-index: 1;
+    text-decoration: none;
+}
+.anchito2{
+    top: 70px;
+    position: absolute;
+    width: 50%;
+    background: #fff;
+    margin-left: 26%;
+    font-size: 20px;
+    z-index: 1;
+    text-decoration: none;
+}
+.anchito3{
+    top: 70px;
+    position: absolute;
+    width: 75%;
+    background: #fff;
+    margin-left: 14%;
+    font-size: 20px;
+    z-index: 1;
+    text-decoration: none;
+}
+.anchito4{
+    margin-top: 10%;
+    top: 70px;
+    position: absolute;
+    width: 50%;
+    background: #fff;
+    margin-left: 5%;
+    font-size: 20px;
+    z-index: 1;
+    text-decoration: none;
+}
+.anchito5{
+    top: 70px;
+    position: absolute;
+    width: 50%;
+    background: #fff;
+    margin-left: 26%;
+    font-size: 20px;
+    z-index: 1;
+    text-decoration: none;
+}
+.formulario2{
+    margin: 5px;
+    text-align: center;
+    padding: 10px;
+}
+.formulario3{
+    margin: 5px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.lista1{
+    margin: 5px;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+}
+.lista1 a{
+    text-decoration: none;
+}
+.lista1 a:visited {color:blue;}
+
+.lista2{
+    margin: 5px;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+}
+.lista2 a{
+    text-decoration: none;
+}
+.lista2 a:visited {color:blue;}
+
+.nota  {
+    position: relative;
+    margin-left: 14%;
+}
